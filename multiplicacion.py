@@ -6,4 +6,4 @@ b = int(input("ingrese el numero b: "))
 # operar valores
 c = a * b
 #imprimir valor
-print ("El resultado de la multiplicacion es: "+c)
+print ("El resultado de la multiplicacion es: "+ str(c))
