@@ -5,4 +5,4 @@ b = int(input("ingrese el numero b: "))
 # operar valores
 c = a + b
 #imprimir valor
-print ("El resultado es: "+ str(c))
+print ("El resultado de la suma: "+ str(c))
